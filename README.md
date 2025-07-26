@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently a Year 2 student pursuing degree, Applied Mathematics with Computing
 - 🌱 I’m interested in the field of Data Science, Machine Learning and Deep Learning
 - 😄 Pronouns: YC
-- ⚡ Quote: It's not about the altitude, it's about the attitude.
+- ⚡ Favourite Quote: It's not about the altitude, it's about the attitude.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/goh-yi-cheng-255819281/) 
