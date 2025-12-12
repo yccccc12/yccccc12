@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 A Year 2 student pursuing degree, Applied Mathematics with Computing
-- 🌱 Interested in the field of Data Science, Machine Learning and Deep Learning
+- 🔭 A Year 3 student pursuing degree, Applied Mathematics with Computing
+- 🌱 Interested and Exploring in the field of Aritificial Intelligence, Data Science, Machine Learning and Deep Learning
 - ⚡ Favourite Quote: It's not about the altitude, it's about the attitude.
 
 ## 🌐 Socials:
