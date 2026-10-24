@@ -15,8 +15,8 @@
 
 ## About Me
 
-- Year 3 student pursuing Applied Mathematics with Computing
-- Exploring in Artificial intelligence, Data Science, Machine Learning, and Deep Learning
+- Applied Mathematics with Computing Fresh Graduate
+- Exploring in Artificial Intelligence, Data Science, Machine Learning, and Deep Learning
 - *"It's not about the altitude, it's about the attitude."*
 
 ---
